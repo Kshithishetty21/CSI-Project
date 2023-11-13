@@ -350,3 +350,20 @@ ul {
     height: 2px;
     background-color: var(--primary-color);
 }
+
+/* About page styles added here */
+#about-section {
+    background-image: url('/Images/image5.avif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.about-canteen p{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    max-width: 800px;
+    font-family: 'Dancing Script', cursive;
+}
